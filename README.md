@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏼, I'm Melissa</h1>
-<h3 align="center">A Software Engineer from New Zealand living in Canada</h3>
+<h1 align="center">Hi 👋🏼 I'm Melissa</h1>
+<h3 align="center">A Software Developer from Aotearoa (New Zealand) living in Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/missrose_dev" target="blank"><img src="https://img.shields.io/twitter/follow/missrose_dev?logo=twitter&style=for-the-badge" alt="missrose_dev" /></a> </p>
 
