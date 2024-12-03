@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Most of my projects are available at [melissa.info](melissa.info) (still a work in progress)
+- 👨‍💻 Most of my projects are available at [melissarose.info](melissarose.info) (still a work in progress)
 
 - 💬 Ask me about **anything!**
 
