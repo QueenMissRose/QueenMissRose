@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/missrose_dev" target="blank"><img src="https://img.shields.io/twitter/follow/missrose_dev?logo=twitter&style=for-the-badge" alt="missrose_dev" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/QueenMissRose/Portfolio)
+- 🔭 I’m currently working on **[My Portfolio](https://github.com/QueenMissRose/Portfolio)**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Most of my projects are available at [melissarose.info](https://melissarose.info/) (still a work in progress)
+- 👨‍💻 Most of my projects are available at **[melissarose.info](https://melissarose.info/)** (still a work in progress)
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **twitter/missrose_dev**
+- 📫 How to reach me **[twitter/missrose_dev](https://twitter.com/missrose_dev)**
 
 - ⚡ Fun fact **i communicate through pushups**
 
