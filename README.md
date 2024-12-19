@@ -24,7 +24,7 @@
 <h3 align="left">Technologies:</h3>
 
 I have experience with a variety of technologies, including:
-- **Frontend:** HTML5, CSS3, JavaScript(ES6+), Bootstrap
+- **Frontend:** HTML5, CSS3, JavaScript(ES6+), Tailwind
 - **Version Control:** Git, Github
 - **Development Tools:** VS code, Homebrew, iTerm 2
 - **UX/UI Tools:** Figma, Canva, Adobe Fresco, Procreate
